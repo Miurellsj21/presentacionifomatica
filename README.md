@@ -1,0 +1,2 @@
+# presentacionifomatica
+tarea 2
